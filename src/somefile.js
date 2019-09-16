@@ -1,3 +1,5 @@
-export default () => {
+const someFunction = () => {
   myUndefinedFunction()
 }
+
+module.exports = someFunction
