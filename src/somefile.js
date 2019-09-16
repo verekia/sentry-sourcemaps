@@ -2,4 +2,4 @@ const someFunction = () => {
   myUndefinedFunction()
 }
 
-module.exports = someFunction
+export default someFunction
